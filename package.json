@@ -12,5 +12,13 @@
     "chalk": "^5.4.1"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anatoliizaika/lesson2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anatoliizaika/lesson2/issues"
+  },
+  "homepage": "https://github.com/anatoliizaika/lesson2#readme",
   "description": ""
 }
